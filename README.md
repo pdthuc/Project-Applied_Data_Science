@@ -1,7 +1,7 @@
 # Project-DataScience
-Đồ án môn Khoa học Dữ liệu và Ứng Dụng
-  - Nhóm: 12
-  - Danh sách thành viên:
+## Đồ án môn Khoa học Dữ liệu và Ứng Dụng
+### Nhóm: 12
+### Danh sách thành viên:
   1. 1712667 - Lê Hữu Phúc
   2. 18120167 - Nguyễn Viết Dũng
   3. 18120579 - Đặng Minh Thọ
