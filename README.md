@@ -12,5 +12,7 @@
 - Mô tả tổng quan: Sử dụng các thành phần công thức để phân loại món ăn
 - Link cuộc thi: https://www.kaggle.com/c/whats-cooking/leaderboard
 - Link **`TOP 5`** Solution: https://github.com/mtad/kaggle/tree/master/whats_cooking
+![leaderboard](https://user-images.githubusercontent.com/76215500/136313219-2d74f532-55d4-4f6a-a900-2865064c8fa1.png)
+
 
 
