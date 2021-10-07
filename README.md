@@ -8,7 +8,7 @@
   3. 18120579 - Đặng Minh Thọ
   4. 18120584 - Phạm Đình Thục
 ## 1. Chọn đề tài
-- Tên cuộc thi: `What's Cooking?`
+- Tên cuộc thi: **`What's Cooking?`**
 - Mô tả tổng quan: Sử dụng các thành phần công thức để phân loại món ăn
 - Link cuộc thi: https://www.kaggle.com/c/whats-cooking
 - Link **`TOP 5`** Solution: https://github.com/mtad/kaggle/tree/master/whats_cooking
