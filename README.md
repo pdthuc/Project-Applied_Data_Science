@@ -1,5 +1,6 @@
 # Project-DataScience
 ## Đồ án môn Khoa học Dữ liệu và Ứng Dụng
+### GVHD: Trần Trung Kiên
 ### Nhóm: 12
 ### Danh sách thành viên:
   1. 1712667 - Lê Hữu Phúc
