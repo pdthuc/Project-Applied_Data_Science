@@ -10,6 +10,6 @@
 - Tên cuộc thi: `What's Cooking?`
 - Mô tả tổng quan: Sử dụng các thành phần công thức để phân loại món ăn
 - Link cuộc thi: https://www.kaggle.com/c/whats-cooking/leaderboard
-- Link Solution: https://github.com/mtad/kaggle/tree/master/whats_cooking
+- Link **`TOP 5`** Solution: https://github.com/mtad/kaggle/tree/master/whats_cooking
 
 
