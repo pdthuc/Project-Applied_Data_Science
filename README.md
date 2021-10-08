@@ -1,4 +1,4 @@
-# Project-DataScience
+# Project-Data_Science_and_Application
 ## Đồ án môn Khoa học Dữ liệu và Ứng Dụng
 ### GVHD: Trần Trung Kiên
 ### Nhóm: 12
