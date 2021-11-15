@@ -14,7 +14,21 @@
 - Link **`TOP 8`** Solution: https://github.com/MaxHalford/kaggle-recruit-restaurant
 
 ## 2. GIỚI THIỆU ĐỀ TÀI
-- Cập nhật slide giới thiệu đề tài nhóm chọn
+  *(Đã cập nhật slide giới thiệu đề tài)*
+- Đặt vấn đề
+- Tổng quan cuộc thi
+- Giới thiệu Data
+- Giới thiệu Solution 
+
+## 3. KHÁM PHÁ DỮ LIỆU
+
+## 4. TIỀN XỬ LÝ
+
+## 5. CHIA TẬP DỮ LIỆU
+
+## 6. XÂY DỰNG MÔ HÌNH
+
+## 7. ĐÁNH GIÁ MÔ HÌNH
 
 
 
