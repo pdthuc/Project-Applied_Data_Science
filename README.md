@@ -21,6 +21,7 @@
 - Giới thiệu Solution 
 
 ## 3. KHÁM PHÁ DỮ LIỆU
+*(Đã cập nhật 6/8 trong slide)*
 
 ## 4. TIỀN XỬ LÝ
 
