@@ -26,6 +26,7 @@
 - Trong file air_visit_data.csv liên quan về dữ liệu khách theo ngày:
 Trong file biểu diễn dữ liệu theo ngày (những ngày không có khách sẽ không được thu thập)
 -> Ta cần phải lấy mẫu theo ngày thay vì theo lượt truy cập. Do đó, những ngày không có khách thì lượt truy cập sẽ là 0. Có ích cho việc tính toán luân phiên dựa vào thời gian
+
 ![image](https://user-images.githubusercontent.com/76215500/142220439-675dfab0-00d2-4353-96a5-12d737bc183f.png)
 
 - Trong file date_info.csv liên quan đến dữ liệu các ngày lễ
@@ -51,6 +52,7 @@ Nhờ vào lượng dữ liệu hơn so với phiên bản chính thức của K
 
 - Ta sẽ sử dụng các dữ liệu về lượng mưa và nhiệt độ (lượt bỏ các giá trị khác).
 Tiến hành xử lý các giá trị bị thiếu bằng cách thay thế chúng bằng giá trị trung bình hàng ngày trên toàn cầu
+
 ![image](https://user-images.githubusercontent.com/76215500/142220641-fd0291b0-7590-4a95-9412-a327d493486b.png)
 
 - Sau quá trình khám phá dữ liệu, ta thu được bộ dữ liệu như sau:
