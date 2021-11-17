@@ -64,5 +64,3 @@ Tiến hành xử lý các giá trị bị thiếu bằng cách thay thế chún
 
 ## 7. ĐÁNH GIÁ MÔ HÌNH
 
-
-
