@@ -3,10 +3,10 @@
 ### GVHD: Trần Trung Kiên
 ### Nhóm: 12
 ### DANH SÁCH THÀNH VIÊN:
-  1. 1712667 - Lê Hữu Phúc
-  2. 18120167 - Nguyễn Viết Dũng
-  3. 18120579 - Đặng Minh Thọ
-  4. 18120584 - Phạm Đình Thục
+  1. 1712667 - Lê Hữu Phúc - PhucLe2303
+  2. 18120167 - Nguyễn Viết Dũng - kaiser1038
+  3. 18120579 - Đặng Minh Thọ - MinhTho-162
+  4. 18120584 - Phạm Đình Thục - phamdinhthuc020100
 ## 1. CHỌN ĐỀ TÀI
 - Tên cuộc thi: **`Recruit Restaurant Visitor Forecasting`**
 - Mô tả tổng quan: Dự đoán nhà hàng sẽ nhận được bao nhiêu khách trong tương lai
