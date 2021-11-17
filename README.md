@@ -66,9 +66,7 @@ Tiến hành xử lý các giá trị bị thiếu bằng cách thay thế chún
 
 ## 4. TIỀN XỬ LÝ
 
-## 5. CHIA TẬP DỮ LIỆU
+## 5. XÂY DỰNG MÔ HÌNH
 
-## 6. XÂY DỰNG MÔ HÌNH
-
-## 7. ĐÁNH GIÁ MÔ HÌNH
+## 6. ĐÁNH GIÁ MÔ HÌNH
 
