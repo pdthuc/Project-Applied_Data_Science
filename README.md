@@ -39,7 +39,7 @@ Ta thêm hai tính năng cho biết ngày hôm trước và ngày hôm sau là n
 
 ![image](https://user-images.githubusercontent.com/76215500/142220501-b5a79b33-66be-4161-83f9-e810855d3897.png)
 
-- Đối với thông tin của nhà hàng ở đây chúng ta sử dụng phiên bản xử lý trước thay vì phiên bản hiện tại của cuộc thi (vì nó chứa dữ liệu quan trong của các trạm quan sát thời tiết). Bạn có thể truy cập dữ liệu này ở đây.
+- Đối với thông tin của nhà hàng ở đây chúng ta sử dụng phiên bản xử lý trước thay vì phiên bản hiện tại của cuộc thi (vì nó chứa dữ liệu quan trong của các trạm quan sát thời tiết). Bạn có thể truy cập dữ liệu này ở [đây](https://www.kaggle.com/huntermcgushion/rrv-weather-data/)
 Dữ liệu này chứa thêm các đặc trưng như: station_id (id của các trạm gần nhà hàng nhất), station_latitude (vĩ độ của trạm), station_longitude (kinh độ),…
 
 ![image](https://user-images.githubusercontent.com/76215500/142220522-c1ff990d-7576-4091-a9b6-b74341aad200.png)
