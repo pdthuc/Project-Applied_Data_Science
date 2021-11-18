@@ -7,6 +7,10 @@
   2. 18120167 - Nguyễn Viết Dũng - kaiser1038
   3. 18120579 - Đặng Minh Thọ - MinhTho-162
   4. 18120584 - Phạm Đình Thục - phamdinhthuc020100
+ 
+### KẾ HOẠCH THỰC HÀNH:
+- Link google sheets: https://docs.google.com/spreadsheets/d/1kb0j4sLcvcjz4rnoe6WSbI112LpuAlqCxAsfA99TE5E/edit?usp=sharing
+ 
 ## 1. CHỌN ĐỀ TÀI
 - Tên cuộc thi: **`Recruit Restaurant Visitor Forecasting`**
 - Mô tả tổng quan: Dự đoán nhà hàng sẽ nhận được bao nhiêu khách trong tương lai
@@ -35,7 +39,7 @@ Ta thêm hai tính năng cho biết ngày hôm trước và ngày hôm sau là n
 
 ![image](https://user-images.githubusercontent.com/76215500/142220501-b5a79b33-66be-4161-83f9-e810855d3897.png)
 
-- Đối với thông tin của nhà hàng ở đây chúng ta sử dụng phiên bản xử lý trước thay vì phiên bản hiện tại của cuộc thi (vì nó chứa dữ liệu quan trong của các trạm quan sát thời tiết). Bạn có thể truy cập dữ liệu này ở đây.
+- Đối với thông tin của nhà hàng ở đây chúng ta sử dụng phiên bản xử lý trước thay vì phiên bản hiện tại của cuộc thi (vì nó chứa dữ liệu quan trong của các trạm quan sát thời tiết). Bạn có thể truy cập dữ liệu này ở [đây](https://www.kaggle.com/huntermcgushion/rrv-weather-data/)
 Dữ liệu này chứa thêm các đặc trưng như: station_id (id của các trạm gần nhà hàng nhất), station_latitude (vĩ độ của trạm), station_longitude (kinh độ),…
 
 ![image](https://user-images.githubusercontent.com/76215500/142220522-c1ff990d-7576-4091-a9b6-b74341aad200.png)
