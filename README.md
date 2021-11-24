@@ -10,6 +10,10 @@
  
 ### KẾ HOẠCH THỰC HÀNH:
 - Link google sheets: https://docs.google.com/spreadsheets/d/1kb0j4sLcvcjz4rnoe6WSbI112LpuAlqCxAsfA99TE5E/edit?usp=sharing
+
+### LINK GOOGLE COLAB
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_Notebook.ipynb)
+
  
 ## 1. CHỌN ĐỀ TÀI
 - Tên cuộc thi: **`Recruit Restaurant Visitor Forecasting`**
