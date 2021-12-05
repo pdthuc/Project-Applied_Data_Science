@@ -32,6 +32,7 @@
 *(Đã cập nhật khám phá dữ liệu)*
 
 ## 4. TIỀN XỬ LÝ
+*(05/12/2021 - Đã cập nhật tiền xử lý)*
 
 ## 5. XÂY DỰNG MÔ HÌNH
 
