@@ -14,26 +14,40 @@
 ### LINK GOOGLE COLAB
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb)
 
- 
-## 1. CHỌN ĐỀ TÀI
-- Tên cuộc thi: **`Recruit Restaurant Visitor Forecasting`**
-- Mô tả tổng quan: Dự đoán nhà hàng sẽ nhận được bao nhiêu khách trong tương lai
-- Link cuộc thi: https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
-- Link **`TOP 8`** Solution: https://github.com/MaxHalford/kaggle-recruit-restaurant
+- **Tên cuộc thi:** Recruit Restaurant Visitor Forecasting
+- **Mô tả bài toán:** 
+    - Bài toán dự đoán **số lượng khách hàng** sẽ đến **01 nhà hàng** vào **01 ngày bất kỳ** trong tương lai. Việc dự đoán sẽ dựa vào các thông tin về vị trí (kinh độ, vĩ độ) của nhà hàng, các ngày lễ trong năm, thông tin dự báo thời tiết ngày hôm đó và dữ liệu đặt chỗ thông qua trang web đặt chỗ của nhà hàng và dữ liệu khách đã đến trong cơ sở dữ liệu của nhà hàng.
+    - **Input**: là mã của nhà hàng (`air_store_id`) và ngày cần dự đoán (`visit_date`).
+    - **Output**: Số lượng khách (`visitors`) sẽ đến nhà hàng.
+- **Prize:** $ 25000
+- **Participants:** 2148 teams
+- **Link Kaggle:** https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 
-## 2. GIỚI THIỆU ĐỀ TÀI
-  *(Đã cập nhật slide giới thiệu đề tài)*
-- Đặt vấn đề
-- Tổng quan cuộc thi
-- Giới thiệu Data
-- Giới thiệu Solution 
+- **Solution:**
+  - Trong đồ án này, nhóm đã tìm hiểu và cài đặt lại phương pháp nằm trong top 10 Private Leaderboard.
+  - Xếp hạng solution: Top 8 Private Leaderboard với `score` = 0.50775
+  - Tác giả: MaxHalford 
+  - Link Solution: https://github.com/MaxHalford/kaggle-recruit-restaurant
 
-## 3. KHÁM PHÁ DỮ LIỆU
-*(Đã cập nhật khám phá dữ liệu)*
+Dữ liệu đến từ hai trang web riêng biệt: 
+  - Hot Pepper Gourmet (hpg): tại đây người dùng có thể tìm kiếm nhà hàng và đặt chỗ trực tuyến 
+  - AirREGI / Restaurant Board (air): hệ thống kiểm soát đặt chỗ và tính tiền
+  
+Được thu thập từ năm 2016 đến tháng 4 năm 2017 
+- AIR: 829 restaurants 
+- HPG: 4690 restaurants
 
-## 4. TIỀN XỬ LÝ
-*(05/12/2021 - Đã cập nhật tiền xử lý)*
+Dữ liệu thu thập bao gồm các thông tin liên quan đến nhà hàng (id, latitude, longitude, ...), các thông tin về số lượng khách đặt chỗ tại các nhà hàng và các thông tin liên quan đến thời tiết, ngày lễ.
 
-## 5. XÂY DỰNG MÔ HÌNH
+Để hoàn thành đồ án này, nhóm mình đã tham khảo những tài liệu sau:
+1. https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
+2. https://github.com/MaxHalford/kaggle-recruit-restaurant
+3. https://www.statisticshowto.com/probability-and-statistics/z-score/
+4. https://www.mathsisfun.com/data/confidence-interval-calculator.html
+5. https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.ewm.html
+6. https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMRegressor.html
+7.  https://lightgbm.readthedocs.io/en/latest/
+8. https://miai.vn/2021/01/18/k-fold-cross-validation-tuyet-chieu-train-khi-it-du-lieu/
+9. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.KFold.html
 
-## 6. ĐÁNH GIÁ MÔ HÌNH
+Và nhóm xin gửi lời cảm ơn đặc biệt đến https://stackoverflow.com/ vì đã hỗ trợ nhóm trong quá trình làm đồ án này. :">
