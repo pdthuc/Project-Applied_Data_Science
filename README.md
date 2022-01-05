@@ -13,7 +13,9 @@
 
 ### LINK GOOGLE COLAB
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb)
+- Link: https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb
 
+### MÔ TẢ BÀI TOÁN
 - **Tên cuộc thi:** Recruit Restaurant Visitor Forecasting
 - **Mô tả bài toán:** 
     - Bài toán dự đoán **số lượng khách hàng** sẽ đến **01 nhà hàng** vào **01 ngày bất kỳ** trong tương lai. Việc dự đoán sẽ dựa vào các thông tin về vị trí (kinh độ, vĩ độ) của nhà hàng, các ngày lễ trong năm, thông tin dự báo thời tiết ngày hôm đó và dữ liệu đặt chỗ thông qua trang web đặt chỗ của nhà hàng và dữ liệu khách đã đến trong cơ sở dữ liệu của nhà hàng.
@@ -39,6 +41,7 @@ Dữ liệu đến từ hai trang web riêng biệt:
 
 Dữ liệu thu thập bao gồm các thông tin liên quan đến nhà hàng (id, latitude, longitude, ...), các thông tin về số lượng khách đặt chỗ tại các nhà hàng và các thông tin liên quan đến thời tiết, ngày lễ.
 
+### TÀI LIỆU THAM KHẢO
 Để hoàn thành đồ án này, nhóm mình đã tham khảo những tài liệu sau:
 1. https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
 2. https://github.com/MaxHalford/kaggle-recruit-restaurant
