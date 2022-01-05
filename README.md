@@ -7,7 +7,10 @@
   2. 18120167 - Nguyễn Viết Dũng - kaiser1038
   3. 18120579 - Đặng Minh Thọ - MinhTho-162
   4. 18120584 - Phạm Đình Thục - pdthuc
- 
+
+### THÙNG CHỨA GITHUB:
+- Link github: https://github.com/pdthuc/Project-Applied_Data_Science
+
 ### KẾ HOẠCH THỰC HÀNH:
 - Link google sheets: https://docs.google.com/spreadsheets/d/1kb0j4sLcvcjz4rnoe6WSbI112LpuAlqCxAsfA99TE5E/edit?usp=sharing
 
