@@ -13,7 +13,7 @@
 
 ### LINK GOOGLE COLAB
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb)
-- Link: https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb)
+- Link: https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb
 
 ### MÔ TẢ BÀI TOÁN
 - **Tên cuộc thi:** Recruit Restaurant Visitor Forecasting
