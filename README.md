@@ -42,6 +42,10 @@ Dữ liệu đến từ hai trang web riêng biệt:
 - AIR: 829 restaurants 
 - HPG: 4690 restaurants
 
+Ngoài việc dùng dữ liệu từ hai trang web trên, tác giả còn sử dụng thêm dữ liệu về thời tiết tại các trạm ở Nhật Bản được thu thập bởi Hunter McGushion giúp ích cho cuộc thi của Recruit Restaurant Visitor Forecasting.
+
+Tập dữ liệu: [Weather Data for Recruit Restaurant Competition](https://www.kaggle.com/huntermcgushion/rrv-weather-data) được thu thập từ ngày 1-1-2016 đến 31-5-2017 chứa thông tin về 1663 trạm thời tiết ở Nhật Bản
+
 Dữ liệu thu thập bao gồm các thông tin liên quan đến nhà hàng (id, latitude, longitude, ...), các thông tin về số lượng khách đặt chỗ tại các nhà hàng và các thông tin liên quan đến thời tiết, ngày lễ.
 
 ### TÀI LIỆU THAM KHẢO
