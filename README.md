@@ -14,9 +14,9 @@
 ### KẾ HOẠCH THỰC HÀNH:
 - Link google sheets: https://docs.google.com/spreadsheets/d/1kb0j4sLcvcjz4rnoe6WSbI112LpuAlqCxAsfA99TE5E/edit?usp=sharing
 
-### LINK GOOGLE COLAB
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb)
-- Link: https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Group12_kaggle_recruit_restaurant.ipynb
+### LINK GOOGLE COLAB 
+- [![Open In Colab](https://github.com/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb)
+- Link: https://github.com/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb
 
 ### MÔ TẢ BÀI TOÁN
 - **Tên cuộc thi:** Recruit Restaurant Visitor Forecasting
