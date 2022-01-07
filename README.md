@@ -16,7 +16,7 @@
 
 ### LINK GOOGLE COLAB 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb)
-- Link: https://github.com/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb
+- Link: https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb
 
 ### MÔ TẢ BÀI TOÁN
 - **Tên cuộc thi:** Recruit Restaurant Visitor Forecasting
