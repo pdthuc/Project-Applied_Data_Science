@@ -15,7 +15,7 @@
 - Link google sheets: https://docs.google.com/spreadsheets/d/1kb0j4sLcvcjz4rnoe6WSbI112LpuAlqCxAsfA99TE5E/edit?usp=sharing
 
 ### LINK GOOGLE COLAB 
-- [![Open In Colab](https://github.com/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb)
+- [![Open In Colab](https://colab.research.google.com/github/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb)
 - Link: https://github.com/pdthuc/Project-Applied_Data_Science/blob/main/Report.ipynb
 
 ### MÔ TẢ BÀI TOÁN
